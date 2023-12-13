@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey there! 👋 I'm currently diving into the exciting world of game development using Godot.
+I'm currently diving into the exciting world of game development using Godot.
 
 ### Interests
 📚 Preparing for government examinations  
