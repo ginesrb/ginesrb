@@ -8,4 +8,4 @@ Hey there! 👋 I'm currently diving into the exciting world of game development
 💻 Coding enthusiast  
 
 ### Contact
-📧 You can reach out to me via email at [ginesrb94@gmail.com]
+📧 You can reach out to me via email at ginesrb94@gmail.com
