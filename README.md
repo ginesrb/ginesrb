@@ -3,8 +3,8 @@
 I'm currently diving into the exciting world of game development using Godot.
 
 ### Interests
-📚 Preparing for government examinations
-🎮 Game development with Godot  
+📚 Preparing for government examinations  
+🎮 Learning game development with Godot  
 💻 Coding enthusiast  
 
 ### Contact
